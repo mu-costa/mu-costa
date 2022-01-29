@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on with HTML, CSS e JAVASCRIPT
 - 🌱 I’m currently learning ES6 e Jest Async
 - 👯 I’m looking to collaborate on open source code
-- 📫 How to reach me: mcosta12358@gmail.com
+- 📫 How to reach me: mucosta1618@gmail.com
 - 😄 Pronouns: he/him
 
 <div align="center">
