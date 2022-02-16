@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on with HTML, CSS e JAVASCRIPT
-- 🌱 I’m currently learning ES6 e Jest Async
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on open source code
 - 📫 How to reach me: mucosta1618@gmail.com
 - 😄 Pronouns: he/him
@@ -16,6 +16,8 @@
   <img align="center" alt="mu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align='center' alt='mu-React' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
   </div>
   <br>
   <div align='center'>
