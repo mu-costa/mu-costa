@@ -1,5 +1,5 @@
 <p>
-  E voltou, então, à raposa:
+  E voltou, então, à raposa:<br>
 __ Adeus... -disse ele.
 __ Adeus -disse a raposa. __ Eis o meu segredo. É muito simples: só se vê bem com o coração. O essencial é invisível aos olhos.
 __ O essencial é invisível aos olhos -repetiu o principezinho, para não esquecer.
