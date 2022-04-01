@@ -10,3 +10,7 @@
 - Mas tu não a deves esquecer. Tu te tornas eternamente responsável por aquilo que cativas. Tu és responsável pela tua rosa...<br>
 - Eu sou responsável pela minha rosa... -repetiu o principezinho, para não esquecer.  <br>
 </p>
+
+<h3>“Nossas dúvidas são traidoras e nos fazem perder o que, com frequência, poderíamos ganhar, por simples medo de arriscar.”
+
+William Shakespeare</h3>
