@@ -14,3 +14,11 @@
 <h4>“Nossas dúvidas são traidoras e nos fazem perder o que, com frequência, poderíamos ganhar, por simples medo de arriscar.”
 
 William Shakespeare</h4>
+
+<h4>
+"Testing leads to failure, and failure leads to understanding." - Burt Rutan
+</h4>
+
+<h4>
+  “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
+</h4>
