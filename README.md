@@ -22,3 +22,7 @@ William Shakespeare</h4>
 <h4>
   “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
 </h4>
+
+<h4>
+  "The hardest choices require the strongest wills" - Thanos
+</h4>
