@@ -26,3 +26,7 @@ William Shakespeare</h4>
 <h4>
   "The hardest choices require the strongest wills" - Thanos
 </h4>
+
+<h4>
+  "Só passando por um grande volume de trabalho que você irá diminuir essa lacuna e o seu trabalho vai ser tão bom quanto suas ambições" - Ira Glass
+</h4>
