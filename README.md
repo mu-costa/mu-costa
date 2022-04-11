@@ -30,3 +30,6 @@ William Shakespeare</h4>
 <h4>
   "Só passando por um grande volume de trabalho que você irá diminuir essa lacuna e o seu trabalho vai ser tão bom quanto suas ambições" - Ira Glass
 </h4>
+<h4>
+  "Lembre-se que da conduta de cada um depende o destino de todos" - Alexandre O Grande
+</h4>
