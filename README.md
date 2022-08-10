@@ -1,13 +1,13 @@
-## Hey, my name is Lanai!
+## Hey, my name is Murilo!
 
 <div align="center">
   <img height="250px" align="right" src="https://i.ibb.co/VMgH0Lm/c-1-removebg-preview.png" />
   <div align="left" style="display: inline_block">
     <li> 🔭 Now I am studying Web Development at <a href="https://betrybe.com">Trybe</a></li>
     <li> 🌱 Learning Typescript</li>
-    <li> 💬 Ask me about LGBTQIA+ movies</li>
-    <li> 😄 Pronomes: She/Her</li>
-    <li> ⚡ Fun fact: Mean Girls is my favorite movie</li>
+    <li> 💬 Ask me about sci-fi movies</li>
+    <li> 😄 Pronomes: He/His</li>
+    <li> ⚡ Fun fact:Bahia is my favorite soccer team</li>
   </div>
 </div>
 
@@ -34,9 +34,7 @@
 ### Contact
 
 <div>
-  <a href="https://www.linkedin.com/in/lanai-caroline/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://lanaiconceicao.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO%20%E2%99%A5-%23E4405F?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
-  <a href = "mailto:conceicaolanai@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/lanaiconceicao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/murilo-costa-15a340213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href = "mailto:mcosta12358@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
