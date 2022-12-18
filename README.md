@@ -3,10 +3,10 @@
 <div align="center">
   <div align="left" style="display: inline_block">
     <li> 🔭 Now I am studying Web Development at <a href="https://betrybe.com">Trybe</a></li>
-    <li> 🌱 Learning Typescript</li>
+    <li> 🌱 Learning Python</li>
     <li> 💬 Ask me about sci-fi movies</li>
     <li> 😄 Pronomes: He/His</li>
-    <li> ⚡ Fun fact:Bahia is my favorite soccer team</li>
+    <li> ⚡ Fun fact: I have four cats</li>
   </div>
 </div>
 
