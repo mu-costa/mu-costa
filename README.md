@@ -2,7 +2,7 @@
 
 <div align="center">
   <div align="left" style="display: inline_block">
-    <li> 🔭 I'm fullstack web developer</li>
+    <li> 🔭 I'm full stack web developer</li>
     <li> 🌱 Learning Python</li>
     <li> 💬 Ask me about sci-fi movies</li>
     <li> 😄 Pronomes: He/His</li>
