@@ -6,7 +6,7 @@
     <li> 🌱 Learning Python</li>
     <li> 💬 Ask me about sci-fi movies</li>
     <li> 😄 Pronomes: He/His</li>
-    <li> ⚡ Fun fact: I have five cats</li>
+    <li> ⚡ Fun fact: I have three cats</li>
   </div>
 </div>
 
