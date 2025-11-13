@@ -1,39 +1,44 @@
-## Hey, my name is Murilo!
+### Hi there, I'm Murilo Costa 👋
 
-<div align="center">
-  <div align="left" style="display: inline_block">
-    <li> 🔭 I'm full stack web developer</li>
-    <li> 🌱 Learning Python</li>
-    <li> 💬 Ask me about sci-fi movies</li>
-    <li> 😄 Pronomes: He/His</li>
-    <li> ⚡ Fun fact: I have three cats</li>
-  </div>
-</div>
+I am a **Software Developer** with **6** years of experience, specializing in building dynamic and scalable web applications. My background as a **Webmaster** gives me a unique perspective on site performance, automation, and full-lifecycle project management.
 
----
+My expertise spans the full stack, from crafting responsive front-ends with **React** to building robust APIs with **Node.js** and managing content-driven platforms with **WordPress**. I'm passionate about leveraging cloud infrastructure like **AWS** to deploy reliable and efficient solutions.
 
-### Tools and technologies that I use:
+* 👨‍💻 I’m currently building... [A personal project using the MERN stack.]
+* 🚀 I’m currently learning... [Advanced AWS services like Lambda and EKS.]
+* 💬 Ask me about... [React, Node.js, WordPress, and AWS cloud solutions.]
+* 📫 How to reach me: [YOUR_EMAIL@example.com]
+* ⚡ Fun fact: [A fun fact about you, e.g., I'm a certified scuba diver.]
 
-<div>
-  <img align="center" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-<img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-<img align="center" alt="node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
+<br/>
 
----
+### My Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https.img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-### Contact
+<br/>
 
-<div>
-  <a href="https://www.linkedin.com/in/murilo-costa-15a340213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href = "mailto:mu.costadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+### Where to Find Me
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-PROFILE" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Your LinkedIn Profile" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-MySite-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Your Portfolio Website" />
+  </a>
+</p>
 
+<br/>
+
+### My GitHub Stats
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=7&theme=dracula"/>
+</p>
