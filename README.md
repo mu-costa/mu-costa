@@ -17,21 +17,3 @@ My expertise spans the full stack, from crafting responsive front-ends with **Re
 </p>
 
 <br/>
-
-### Where to Find Me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-PROFILE" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Your LinkedIn Profile" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-MySite-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Your Portfolio Website" />
-  </a>
-</p>
-
-<br/>
-
-### My GitHub Stats
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=7&theme=dracula"/>
-</p>
